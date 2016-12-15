@@ -1,0 +1,9 @@
+C:\Users\ClevelandCodes\Desktop\Coding\cc\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\ClevelandCodes\Desktop\Coding\cc\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\ClevelandCodes\Desktop\Coding\cc\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\ClevelandCodes\Desktop\Coding\cc\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\Desktop\Coding\cc\Cards\Cards\obj\Debug\Cards.exe
+C:\Users\ClevelandCodes\Desktop\Coding\cc\Cards\Cards\obj\Debug\Cards.pdb
+W:\GitHub\Cards\DeckOfCards\Cards\bin\Debug\Cards.exe.config
+W:\GitHub\Cards\DeckOfCards\Cards\obj\Debug\Cards.exe
+W:\GitHub\Cards\DeckOfCards\Cards\obj\Debug\Cards.pdb
